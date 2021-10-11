@@ -1689,10 +1689,10 @@ select {
 
 
 
-		/* Style all font awesome icons */
+/* Style all font awesome icons */
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 35px;
     width: 50px;
     text-align: center;
     text-decoration: none;
@@ -1711,8 +1711,8 @@ select {
     color: white;
 }
 
-/* Twitter */
-.fa-twitter {
-    background: #55ACEE;
+/* Instagram */
+.fa-instagram {
+    background: #cb2027;
     color: white;
 }
