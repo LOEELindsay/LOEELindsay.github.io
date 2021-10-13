@@ -937,13 +937,22 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 /* Facebook */
-.fa-facebook {
-  background: #3B5998;
-  color: white;
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
 }
-.fa-instagram {
-  background: #125688;
-  color: white;
+	.fa-facebook {
+ 	background: #3B5998;
+  	color: white;
+}
+	.fa-instagram {
+  	background: #125688;
+  	color: white;
 }
 
 /* Table */
